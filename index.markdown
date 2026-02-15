@@ -16,7 +16,7 @@ One of the existential threats to the working class is its disarmament, whether 
 
 An armed and informed populace is harder to oppress.
 
-We are **not** a lobbying group, political action committee, paramilitary organization, militia, or sports team. 
+We are **not** a lobbying group, political action committee, paramilitary organization, militia, or sports club. 
 
 We **are** a volunteer collective of nuevomexicanos, Natives, transplants, queers, POCs, allies, progressives, anarchists, communists, hobbyists, hunters, veterans, parents, teachers, and everything in between.
 

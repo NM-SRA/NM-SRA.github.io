@@ -12,4 +12,6 @@ We stand against the disarmament of the working class.
 
 We are dedicated to arming the working class, both physically and mentally.
 
-[National Org]: https://socialistra.org/
+[National Org](https://socialistra.org/)
+
+[To Donate to the NM Chapter](https://opencollective.com/new-mexico-sra)

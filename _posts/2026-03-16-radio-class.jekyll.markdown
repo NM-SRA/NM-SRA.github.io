@@ -23,6 +23,8 @@ More info on HAM here:
 FRS (Family Radio Service) and GMRS (General Mobile Radio Service) are both FM radio bands that generally use line-of-sight, radio-to-radio setups, like walkie talkies. These devices are affordable, portable, and ideal for short-range communication. For longer-range applications, these radios will rely on repeater antennae that, again, likely already exist in most urban areas. FRS radios and frequencies are available to the general public without a license, while GMRS offers some additional functionality like higher wattage transmitting and digital encryption, but requires paid licensure.
 More info on FRS, GMRS, and their use cases here: [FRS vs GMRS](https://midlandusa.com/blogs/blog/gmrs-or-frs-radio-how-to-choose)
 
+[Radio Slides](/assets/Radio.pptx)
+
 Mesh(core/tastic) is, unlike the government-administrated standards above, an open-source protocol in continuous development. It uses line-of-sight transmissions between all devices in an area to create a mesh network, like a peer-to-peer solution for text communication. Both Meshcore and Meshtastic are based on the [LoRa architecture](https://lora-alliance.org/), and can be installed onto very inexpensive DIY devices. To vastly oversimplify things, Meshcore provides more reliable message delivery, while Meshtastic has a larger userbase and network coverage at present (although the trend seems to be moving toward Meshcore because of the better underlying tech).
 Slides from the presentation here: [Mesh Radio Slides](/assets/meshtastic_meshcore.pdf)
 

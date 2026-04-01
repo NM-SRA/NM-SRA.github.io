@@ -1,0 +1,102 @@
+---
+layout: post
+title:  "IFAK"
+date:   2026-04-01 010:00:00 -0600
+categories: medical safety
+---
+
+# IFAKs: What, Why, How
+
+Individual First Aid Kits (IFAKs) are a critically important component of equipment for any person engaged in activities such as community support/mutual aid, preparedness, protests, and firearms training and use. In this post we hope to outline the key use cases or IFAKs, “must have” items to include (as well as some other additions that can be included or withheld to suit the individual users), and some ways to procure supplies to create your own IFAK at a more reasonable price point. Lastly, we will touch on some opportunities for community members to familiarize themselves with the contents of IFAKs and their use.
+
+## What is an IFAK and what is its primary purpose?
+The IFAK hails from the military where the concept was developed to help stop preventable deaths from hemorrhage. Incidentally, massive bleeding is the single greatest potentially preventable cause of death from trauma, and in many ways these kits focus primarily on stopping bleeding. In the case of the military’s development of the concept, it was determined during the Iraq War circa 2003 that substantial loss of life was occurring as a result of inadequate immediate response to extremity bleeding.
+
+One of the primary goals is for everyone in dangerous scenarios to have rapid, easy access to critical tools for stabilizing themselves or others in the event of serious injury and bleeding, before they can ultimately be cared for by EMS, trauma facilities, etc. The IFAK is therefore very focused in its concept and contents, it is _not_ a “boo boo kit” featuring Band Aids and over the counter medication, nor is it a cumbersome all inclusive medical kit. IFAKs are ubiquitous in terms of their being a part of standard gear in the military and (perhaps to a lesser extent) law enforcement, however they are becoming much more common for civilians to use and maintain (particularly when participating in activities that might increase the general risk level for more serious trauma e.g. firearms use and range training—but also scenarios like protests, where recent disturbing events and infringement on First Amendment rights have brought home the substantially increased risks).
+
+## What makes up an IFAK?
+There are some key components that can be considered essentials or must haves in every IFAK.
+
+## Critical components:
+* A pouch or method for containing the loose components of the kit—ideally in a way that is rapidly deployable and somewhat organized. The worst time to be looking for a critical piece of the kit is when someone has been seriously injured and every second counts.
+  * There are many options at a wide range of price points for obtaining purpose built IFAK pouches or bags. Many of these will include a way to affix them to things like belts, MOLLE webbing on gear such as plate carriers or backpacks, or in places like vehicles.
+  * Additionally, many will feature a way to organize the contents using webbing, elastic bands, Velcro, zippers, etc. This also will often include ways to affix critical items (like tourniquets) to the exterior where they are immediately accessible.
+  * Ultimately, even putting the contents in a Ziplock or vacuum sealed bag that is ready to go is a reasonable and cost effective way to prepare the contents and make them portable.
+* Gloves
+  * At least one pair of quality nitrile gloves sized appropriately for the user and accessible immediately upon deployment of the IFAK.
+* Trauma shears
+  * These are non pointed, heavy duty scissors, designed to cut through clothing to expose bleeding wounds and trauma.
+  * These come at a wide variety of price points as well.
+* Tourniquets
+  * A tourniquet is a device applied to a limb to control life threatening bleeding. It applies strong pressure to the extremity to compress blood vessels and stem hemorrhage.
+  * There are several different primary types of tourniquets:
+    * “Windlass” style featuring an attached rod or windlass that is twisted to increase compression of the strap on the extremity.
+    * Ratcheting style where a ratchet device is utilized to tighten the tourniquet.
+    * Rubber / ”Stretch, Wrap and Tuck”/ SWAT tourniquets a stretchable rubber band that is wrapped tightly and secured to itself in order to apply pressure.
+  * It is critical that you select a tourniquet style that you are _familiar and proficient with_. At a minimum, this means opening the packaging, reviewing any included instructions, and practicing applying the tourniquet.
+  * The windlass style Combat Application Tourniquet (CAT) is the most widely used in military and law enforcement and has a proven record in combat and first responder applications.
+  * Having the tourniquet “staged” or ready to rapidly deploy (removed from packaging and set up for quick application, including one handed deployment) is a must.
+* Permanent marker/Sharpie:
+  * When applying a tourniquet, it is important to notate and mark the time of application for EMS/trauma personnel.
+  * These can be attached to the tourniquet or tourniquet holder, in many cases. They also are available with caps that have key rings and can be attached to the outside of an IFAK/pouch.
+* Gauze
+  * IFAKs should contain at least one type of gauze product for packing bleeding wounds and applying pressure.
+  * This comes in several formats with very different price points:
+    * Compressed or rolled gauze—plain, sterile gauze that typically comes in longer lengths and is used to pack bleeding wounds in order to apply pressure and stop bleeding. Compressed gauze comes in a very tight vacuum sealed package and conserves space.
+    * Hemostatic gauze—gauze which has additional properties/additives that aid in hemostasis, or formation of clots. This gauze is significantly more expensive and has a more limited shelf life to consider.
+    * An important note: survival rates for effectively applied standard gauze products vs the much more expensive hemostatic gauze products are actually fairly similar—although in severe bleeding, particularly arterial, hemostatic gauze does have an edge and has been shown to help increase survival rates. The authors’ primary takeaway is to include and use the gauze you can afford and keep on hand.
+* Emergency Bandage
+  * A stretchable/elastic wrap with an affixed gauze/absorbent pad and a method for applying additional pressure to keep packed gauze in place.
+  * These often come vacuum sealed for space savings in the IFAK.
+* A light source
+  * Given the variability in terms of available light in an emergency situation, having a light source such as a small headlamp or chem light stick is an important feature.
+
+### Additional or specific use case components:
+_Please note that some of the listed items should be used only if trained—this will be notated with the items._
+* Chest Seal
+  * Used for penetrative chest trauma (e.g. gunshot wounds) where the wound is covered with an occlusive, adhesive bandage.
+  * These come in several different styles (vented/non vented) and often in "two packs" for situations where both an entry and exit wound need to be covered.
+  * These may come with gauze for wiping away blood or other substances on the surface of the skin that would inhibit adhesion of the dressing.
+  * Keeping a disposable razor to shave the immediate area around the chest wound is also suggested.
+* Airways
+  * Nasopharyngeal airways or NPAs are devices that are inserted in a nostril and fed back toward the trachea to help bypass airways that are obstructed, e.g. by the tongue in many cases. 
+  * These come in different sizes, and in some cases come pre lubricated to aid in insertion.
+  * This is an item that would best be included by individuals who are trained in their use – particularly as there are serious contraindications to use that can cause much more severe complications, particularly with severe facial/nasal trauma or suspected skull fractures.
+  * There are also oropharyngeal airways (OPA), which again help prevent the victim’s tongue from obstruction their airway – these, too, require training for insertion and should not be inserted by untrained individuals or used with victims who are conscious/semi conscious, as use can trigger gagging/vomiting that can lead to aspiration (inhalation of vomitus into the lungs).
+* Needle decompression kit
+  * A needle and catheter device that is designed to relieve pressure on a lung from what is called a tension pneumothorax, or air that has entered the space around the lungs and is preventing expansion with respiration.
+  * _This is an item that would best be included by individuals who are trained in their use, particularly as there are serious complications that can occur with use, including perforation of the heart if the device is placed in the wrong location._
+
+## How do I obtain or assemble my own IFAK?
+
+Here are some options for preparing your own IFAK, with a focus on inclusivity and acknowledgement of the significant cost of some of the components.
+
+Prebuilt kits can be obtained from places like North American Rescue (NAR) and Rescue Essentials. These will often range in price, and at the time of this post, may cost anywhere from $120 to $300 or more. The lower end of this range will include non hemostatic gauze and more basic supplies, though typically with all or most of the critical components noted above. Ensure you are reviewing the contents (including review of contents when moving through each tier of a pre assembled IFAK, as they will often have “levels” Basic and Advanced, for example). If affordable, this may be a good option for quick access to an IFAK.
+
+Additionally, you can obtain the individual components and assemble these kits yourself, often for at least modest savings.
+
+A few options for procuring components:
+* Guerilla Tactical (www.guerilla-tactical.com)
+  * One of only a few options that are not expressly pro law enforcement/military and may align somewhat more closely with the consumer’s principles. Not the cheapest option.
+  * You can obtain individual components including tourniquets, pouches, and certain types of gauze at their website.
+* Med-Tac International (www.tactical-medicine.com)
+  * At the time of the article, this group (reportedly physician owned) had some of the lowest prices for things like CAT tourniquets and hemostatic gauze.
+* Amazon
+  * While many of us have serious reservations about supporting the company, they are inarguably one of the cheapest sources for individual components.
+  * A very important caveat: it is increasingly more common to see very convincing “knock off” products sold on Amazon, and when we are talking about life saving items such as tourniquets, the authors’ stance is that this is not worth the risk hands on comparison between off brand vs. the genuine CAT tourniquet, for example, reveals that the polymers used for the “plate” and windlass vary significantly in terms of quality and structure.
+  * _A good option for researching/reviewing what is available in order to find the products/brands and buy from their websites directly._
+* Brick and mortar stores
+  * Drugstores and grocery stores will often have at least some of the components available—e.g. nitrile gloves, some gauze products.
+  * Many sporting goods stores and outfits like REI may have hemostatic gauze, tourniquets and other more specialized items.
+
+## How do I learn more about IFAKs and their use?
+
+The authors strongly recommend that every person carrying an IFAK seek out and attend some sort of educational opportunity. Stop the Bleed, a registered program with the American College of Surgeons and the U.S. Department of Defense, is an affordable, well known and intentionally developed course to familiarize attendees with bleeding control and use of the principal components of an IFAK/Stop the Bleed kit. 
+
+You can visit the Stop the Bleed website (<https://www.stopthebleed.org> - “Get Trained”) to seek out opportunities and search for locations, dates, etc.
+
+Unfortunately, options in the New Mexico region have been quite limited. While historically there have been some more “informal” trainings held historically through community aid organizations, opportunities for this style of training appear to be very few and far between at the time of this post. There are other, similar courses available via other groups like the Red Cross (e.g. another joint program with Stop the Bleed called First Aid for Severe Trauma, or FAST) that may be worth reviewing for availability. The authors recommend looking for experienced educators, ideally with hands on experience/credentials (e.g. EMT/paramedics, nurses, physicians/advanced practice clinicians, Wilderness First Aid certified individuals).
+
+Lastly, the Stop the Bleed course does have video only training that reviews the didactic components of the course. This is free and accessible to anyone [here](https://www.stopthebleed.org/get-trained/online-course/) . It is strongly recommended to follow up on this video training and pursue hands on opportunities to review important points and practice with wound packing, pressure, bandages, and tourniquets.
+
+Several members of the New Mexico Socialist Rifle Association (NMSRA) with healthcare backgrounds recognized a need for more options in New Mexico and have attended an out of state training to become certified, and we hope to offer trainings to our community members in the future. Stay tuned.

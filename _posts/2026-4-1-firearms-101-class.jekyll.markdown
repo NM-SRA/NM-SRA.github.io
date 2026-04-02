@@ -7,7 +7,7 @@ categories: BABBNM teaching instruction
 
 # Firearms 101: An Inter-Org Day at the Range 
 
-There’s a saying around the SRA: "you go far enough left and you get your guns back." That was certainly the case at last Sunday’s Fire Arms 101 Class, where members of the NMSRA and the Burque Autonomous Brown Berets of New Mexico got together for a day of guns in the sun. Training began promptly at 9 AM when the SRA Range Safety Instructor shared a helpful acronym that will stick in any leftist’s head: ACAB.
+There’s a saying around the SRA: "you go far enough left and you get your guns back." That was certainly the case at last Sunday’s Fire Arms 101 Class, where members of the NMSRA and the [Burque Autonomous Brown Berets of New Mexico](https://www.instagram.com/burquebrownberets/) got together for a day of guns in the sun. Training began promptly at 9 AM when the SRA Range Safety Instructor shared a helpful acronym that will stick in any leftist’s head: ACAB.
 
 - **A**lways treat all firearms as if they are loaded.
 - **C**ontrol your muzzle at all times.

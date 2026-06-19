@@ -7,9 +7,9 @@
 You'll need to install ruby, I recommend using asdf, then:
 
 ``` sh
-gem install jekyll bundler
-cd NM-SRA.github.io
-bundle exec jekyll serve
+$ gem install jekyll bundler
+$ cd NM-SRA.github.io
+$ bundle exec jekyll serve
 ```
 
 and it should be available at http://127.0.0.1:4000/ in your browser

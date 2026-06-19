@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "ATF Proposed Rule “Selecting Biological Sex on ATF Forms”"
-date:   2026-06-19 10:26:10 -0700
+date:   2026-06-19 09:26:10 -0600
 categories: trans rights atf 2a
 ---
 
